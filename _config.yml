@@ -1,4 +1,3 @@
-layout_spectrum: 0.6223004441708326
 typography_spectrum: 0.11238568043336272
 color:
   brandStrength: 0.4003106118179858
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6223004441708326
+logo: null
 name: KOH
 title: a handmade line of apparel & home goods
